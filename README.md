@@ -1,5 +1,11 @@
-# 👋 Hello, I am Umar
+## 👋 Hello, I am Umar
 
+### About Me
+I am passionate CSE student , studying at American International University-Bangladesh.I like to learn and develop new skills.
+
+### My Skills :
+
+![alt text](image.png)
 - 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
