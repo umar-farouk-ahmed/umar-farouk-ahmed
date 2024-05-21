@@ -7,8 +7,8 @@ I am a passionate CSE student , studying at American International University-Ba
 ![alt text](image.png)   ![alt text](image-1.png)  ![alt text](image-3.png)
 
 - 🌱 I’m currently learning Web Development
-<br>
-<br>
+
+
 ### Education :
 1. B.Sc. in Computer Science & Engineering (Currently stydying)<br>
 American International University-Bangladesh<br>
