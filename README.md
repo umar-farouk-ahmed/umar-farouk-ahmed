@@ -4,14 +4,19 @@
 I am a passionate CSE student , studying at American International University-Bangladesh.I like to learn and develop new skills.
 
 ### My Skills :
+![alt text](image.png)   ![alt text](image-1.png)  ![alt text](image-3.png)
 
-![alt text](image.png)   ![alt text](image-1.png)
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: .......
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Web Development
+<br>
+<br>
+### Education :
+1. B.Sc. in Computer Science & Engineering (Currently stydying)<br>
+American International University-Bangladesh<br>
+Dhaka,Bangladesh
+<br>
+<br>
+### Languages :
+1.English<br>
+2.Bangla<br>
+
+
