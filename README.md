@@ -13,10 +13,9 @@ I am a passionate CSE student , studying at American International University-Ba
 1. B.Sc. in Computer Science & Engineering (Currently stydying)<br>
 American International University-Bangladesh<br>
 Dhaka,Bangladesh
-<br>
-<br>
-### Languages :
-1.English<br>
-2.Bangla<br>
 
+
+### Languages :
+1.English<
+2.Bangla
 
