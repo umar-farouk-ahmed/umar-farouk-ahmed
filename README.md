@@ -16,6 +16,6 @@ Dhaka,Bangladesh
 
 
 ### Languages :
-1.English<
+1.English
 2.Bangla
 
